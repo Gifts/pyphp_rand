@@ -3,8 +3,16 @@ Cython implementation of mt_rand and mt_srand functions
 Installation
 ============
 
+Cython should be installed. Get it from your linux repository or install with easy_install/pip
+
 <code>
+easy_install Cython<br>
+OR <br>
 pip install Cython<br>
+</code>
+Then install this package:
+
+<code>
 python setup.py install<br>
 </code>
 
